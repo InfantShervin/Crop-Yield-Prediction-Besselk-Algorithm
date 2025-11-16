@@ -1,0 +1,16 @@
+This project integrates multiple real-world datasets to enable robust and accurate crop yield prediction using hybrid spatial feature modeling and the BESSELK algorithm.
+
+Datasets Used
+Crop Dataset (CropDataset-Enhanced.csv):
+Contains detailed crop-specific information, including planting and harvesting times, crop types, yield records per region, and agronomic factors such as soil quality and input usage.
+
+Smart Farming Crop Yield Dataset (Smart_Farming_Crop_Yield_2024.csv):
+Offers recent agricultural data collected from smart farming initiatives, integrating sensor measurements, local climate data, crop health indices, and yield outcomes.
+
+Average Precipitation Data (average-precipitation-per-year.csv):
+Provides yearly precipitation records at spatial resolution relevant to the study regions, helping model the impact of climate and water availability on yield variability.
+
+Data Source Acknowledgments
+The CropDataset-Enhanced and Smart Farming Crop Yield datasets are compiled from publicly available repositories on Kaggle, agricultural research databases, and government open data portals focused on crop production and sustainability.
+
+The precipitation data is sourced from global climate datasets provided by organizations such as the National Oceanic and Atmospheric Administration (NOAA) and the Food and Agriculture Organization (FAO) of the United Nations, ensuring high fidelity for environmental modeling.
