@@ -14,7 +14,7 @@ This project implements a hybrid spatial feature modeling approach for crop yiel
 ## Installation
 
 ### Clone the repository
-git clone https://github.com/your-username/crop-yield-prediction-besselk.git
+git clone https://github.com/InfantShervin/Crop-Yield-Prediction-Besselk-Algorithm.git
 cd crop-yield-prediction-besselk
 
 ### Create a virtual environment and install dependencies
